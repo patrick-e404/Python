@@ -17,8 +17,3 @@ Este projeto utiliza reconhecimento facial para identificar pessoas através de 
     * face_recognition
     * pandas
     * openpyxl (para trabalhar com arquivos Excel)
-
-Você pode instalar as bibliotecas utilizando o pip:
-
-```bash
-pip install opencv-python face_recognition pandas openpyxl
